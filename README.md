@@ -8,6 +8,7 @@ Pagina desplegada:
 Servicios API utilizados - Buscador de Peliculas:
 http://www.omdbapi.com/ 
 
+https://jyaguache.github.io/API-SEM4/
 
 
 
